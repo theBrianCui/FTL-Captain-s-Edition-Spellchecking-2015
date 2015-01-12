@@ -5843,7 +5843,7 @@
 		<crewMember amount="1"/>
 	</event>
 	<event>
-		<text>After you get the scan results the potential crew member gives you a hopeful look. You don't really know what to say. In the end you advise that it might still be possible to get help from the quarantine forces. The person does not believe you. You prepare to move on.</text>
+		<text>After you get the scan results, the potential crew member gives you a hopeful look. You don't really know what to say. In the end, you advise that it might still be possible to get help from the quarantine forces. The person does not believe you. You prepare to move on.</text>
 	</event>
 </eventList>
 
