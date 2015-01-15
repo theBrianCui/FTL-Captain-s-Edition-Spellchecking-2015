@@ -5532,7 +5532,7 @@
 		<text>The pirate cruiser jumps into close orbit, leaving you to dodge their ASB. You hope they didn't leave to get reinforcements.</text>
 	</gotaway>
 	<destroyed>
-		<text>A last hit on the opponents ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
+		<text>A last hit on the opponent's ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
 		<environment type="PDS" target="enemy"/>
 		<autoReward level="HIGH">standard</autoReward>
 		<choice hidden="true">
@@ -5594,7 +5594,7 @@
 		<text>The pirate cruiser jumps into close orbit, leaving you to dodge their ASB. You hope they didn't leave to get reinforcements.</text>
 	</gotaway>
 	<destroyed>
-		<text>A last hit on the opponents ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
+		<text>A last hit on the opponent's ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
 		<autoReward level="HIGH">standard</autoReward>
 		<environment type="PDS" target="enemy"/>
 		<choice hidden="true">
@@ -5654,7 +5654,7 @@
 		<text>The pirate cruiser jumps into close orbit, leaving you to dodge their ASB. You hope they didn't leave to get reinforcements.</text>
 	</gotaway>
 	<destroyed>
-		<text>A last hit on the opponents ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
+		<text>A last hit on the opponent's ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet.</text>
 		<autoReward level="HIGH">standard</autoReward>
 		<environment type="PDS" target="enemy"/>
 		<choice hidden="true">
@@ -5714,7 +5714,7 @@
 		<text>The pirate cruiser jumps into close orbit, leaving you to dodge their ASB. You hope they didn't leave to get reinforcements.</text>
 	</gotaway>
 	<destroyed>
-		<text>A last hit on the opponents ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet. You cleansed the galaxy of one more pirate overlord.</text>
+		<text>A last hit on the opponent's ammo storage and the cruiser combusts into bright flames. While you salvage from the remains, the wreckage slowly drifts towards the planet until it finally burns up in the atmosphere. The anti-ship batteries have gone quiet. You cleansed the galaxy of one more pirate overlord.</text>
 		<autoReward level="HIGH">standard</autoReward>
 		<environment type="PDS" target="enemy"/>
 	</destroyed>
