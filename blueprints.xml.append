@@ -6487,7 +6487,7 @@
 	<short>Phase Ion I</short>
 	<tip>ce_tip_ion_pierce</tip>
 	<locked>1</locked>
-	<desc>This weapons ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
+	<desc>This weapon's ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
 	<tooltip>Fires one phase blast; pierces all shields; deals 1 ion damage to shields and deals 1 additional ion damage to any system it hits afterwards.</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -6534,7 +6534,7 @@
 	<short>Phase Ion II</short>
 	<tip>ce_tip_ion_pierce</tip>
 	<locked>1</locked>
-	<desc>This weapons ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
+	<desc>This weapon's ion projectiles phase through shields, ionizing them as well as any system they hit afterwards.</desc>
 	<tooltip>Fires one phase blast; pierces all shields; deals 1 ion damage to shields and deals 1 additional ion damage to any system it hits afterwards.</tooltip>
 	<damage>0</damage>
 	<ion>1</ion>
@@ -12958,7 +12958,7 @@
 
 <augBlueprint name="TE_GOODS_AI_DATA">
 	<title>AI Research Data</title>
-	<desc>Academic studies of rouge AI behavior. Basic trade goods.</desc>
+	<desc>Academic studies of rogue AI behavior. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
