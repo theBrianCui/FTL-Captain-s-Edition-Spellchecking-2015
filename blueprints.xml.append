@@ -12958,7 +12958,7 @@
 
 <augBlueprint name="TE_GOODS_AI_DATA">
 	<title>AI Research Data</title>
-	<desc>Academic studies of rouge AI behavior. Basic trade goods.</desc>
+	<desc>Academic studies of rogue AI behavior. Basic trade goods.</desc>
 	<cost>30</cost>
 	<bp>15</bp>
 	<rarity>0</rarity>
